@@ -2,6 +2,20 @@ sk:
   ShopAdmin:
     MENUTITLE: Obchod
 
+  AccountPage:
+    DATE: Dátum
+    SHIP_TO: 'Odoslať do'
+    TOTAL: Celkovo
+    STATUS: Stav
+    VIEW_THIS_ORDER: 'Zobraziť túto objednávku'
+    NO_ORDERS: 'Žiadne objednávky'
+    PLURALNAME: 'Stránka účtu'
+    SINGULARNAME: 'Stránky účtu'
+    OUTSTANDINGAMOUNTPROCESS: 'Spôsob platby za nezaplatenú sumu'
+
+  AccountPage_order:
+    WARNING: Pozor!
+
   CartForm:
     GO_TO_CHECKOUT: 'Dokončenie nákupu'
     NOTE: 'Poznámka:'
@@ -12,6 +26,10 @@ sk:
     TOTAL: Celkovo
     UPDATE_CART: 'Aktualizovať košík'
 
+  Country:
+    CODE: Kód
+    TITLE: Názov
+
   CheckoutForm:
     YOUR_ORDER: 'Vaša objednávka'
 
@@ -21,7 +39,7 @@ sk:
     PRICE: Cena
     PRODUCT: Produkt
     QUANTITY: Množstvo
-    SUB_TOTAL: 'Medzisúčet'
+    SUB_TOTAL: Medzisúčet
     TOTAL: Celkovo
     YOUR_ORDER: 'Vaša objednávka'
 
@@ -78,3 +96,23 @@ sk:
 
   Products:
     NONE_TO_DISPLAY: "Prepáčte, v tejto kategórií nie sú na zobrazenie žiadne produkty."
+
+  Order:
+    PLURALNAME: Objednávky
+    PRICE: Cena
+    PRODUCT: Produkt
+    QUANTITY: Množstvo
+    SINGULARNAME: Objednávka
+    SUB_TOTAL: Medzisúčet
+    TOTAL: Celkovo
+
+  OrderAdmin:
+    ORDER: Objednávka
+  OrderNotes:
+    NOTES: Poznámky
+  OrderPayments:
+    AMOUNT: Suma
+    DATE: Dátum
+    PAYMENT: Platba
+    PAYMENT_STATUS: 'Stav platby'
+    TOTAL_OUTSTANDING: 'Celkovo nezaplatené'
