@@ -5,7 +5,7 @@ sk:
   AccountPage:
     DATE: Dátum
     SHIP_TO: 'Odoslať do'
-    TOTAL: Celkovo
+    TOTAL: 'Celkovo s DPH'
     STATUS: Stav
     VIEW_THIS_ORDER: 'Zobraziť túto objednávku'
     NO_ORDERS: 'Žiadne objednávky'
@@ -23,7 +23,7 @@ sk:
     PRICE: Cena
     PRODUCT: Produkt
     QUANTITY: Množstvo
-    TOTAL: Celkovo
+    TOTAL: 'Celkovo s DPH'
     UPDATE_CART: 'Aktualizovať košík'
 
   Country:
@@ -40,7 +40,7 @@ sk:
     PRODUCT: Produkt
     QUANTITY: Množstvo
     SUB_TOTAL: Medzisúčet
-    TOTAL: Celkovo
+    TOTAL: 'Celkovo s DPH'
     YOUR_ORDER: 'Vaša objednávka'
 
   CheckoutPage:
@@ -104,7 +104,7 @@ sk:
     QUANTITY: Množstvo
     SINGULARNAME: Objednávka
     SUB_TOTAL: Medzisúčet
-    TOTAL: Celkovo
+    TOTAL: 'Celkovo s DPH'
 
   OrderAdmin:
     ORDER: Objednávka
